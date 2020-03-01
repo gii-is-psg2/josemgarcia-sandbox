@@ -5,3 +5,4 @@ Nuevo cambio
 Otro cambio
 
 Cambio 2 conflictivo
+Cambio conflictivo 1
