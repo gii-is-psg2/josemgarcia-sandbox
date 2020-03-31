@@ -34,7 +34,7 @@ In the retrospective meeting, the team has a discussion about those results.
 
 | Day           | JAPAREJO    | [Member B]     | [Member C]     | [Member D]     | [Member E]     | [Member F]     |
 | ------------- | ------------- | -------------  | -------------  | -------------  | -------------  | -------------  |
-| Day 1         | :smile        |                |                |                |                |                |
+| Day 1         | :smile:        |                |                |                |                |                |
 | Day 2         |               |                |                |                |                |                |
 | Day 3         |               |                |                |                |                |                |
 | Day 4         |               |                |                |                |                |                |
