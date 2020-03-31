@@ -1,6 +1,7 @@
 # Niko Niko Calendar of team X
 ## Introduction
-Some interesting links about wha a Niko Niko calendar is and opinions about its use in software development:
+Some interesting links about what a Niko Niko calendar is and opinions about its use in software development:
+
 [Definition and opinion in favour](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html?utm_source=google&utm_medium=cpc&utm_campaign=blog-niko-niko&utm_content=niko-niko&utm_term=niko%20niko%20calendar&gclid=Cj0KCQjwsYb0BRCOARIsAHbLPhGYfc7zpSwEDx8KE3VjlsTyy1M1F8O8lxyOPWQTpjf71RjXeD5rgWsaAmEhEALw_wcB)
 
 [A strong opinion against its use in software development teams](https://www.tinypulse.com/blog/sk-niko-niko-calendar-workplace-morale)
