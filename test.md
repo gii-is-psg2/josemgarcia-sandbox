@@ -1,5 +1,4 @@
 Metodología de test: No TDD method
-
 Nuevo cambio
 
 Otro cambio
@@ -7,7 +6,7 @@ Otro cambio
 Cambio 2 conflictivo
 Cambio conflictivo 1
 
-Adiós!
+Hola y adiós!
 
 
 Otro cambio
