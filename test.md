@@ -1,4 +1,4 @@
-Metodología de test: No TDD method
+Metodología de test: TDD method rules
 Nuevo cambio
 
 Otro cambio
