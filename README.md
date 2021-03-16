@@ -8,3 +8,5 @@ Un cambio en el grupo T2. Y esto que se me olvidó. Y otra cosa más.
 Otro cambio en el grupo T3. Después de eliminarlo de staging. Lo modifico otra vez.
 
 Modifico en mi rama
+
+Modifico en master
