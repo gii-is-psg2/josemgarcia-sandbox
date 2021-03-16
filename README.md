@@ -13,4 +13,4 @@ Modifico en master, o mejor en mi rama nueva
 
 Cambio en rama2. Otro cambio
 
-Modifico en master de nuevo.
+Este cambio es de la rama2 con algo de master.
