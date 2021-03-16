@@ -10,3 +10,5 @@ Otro cambio en el grupo T3. Después de eliminarlo de staging. Lo modifico otra 
 Modifico en mi rama
 
 Modifico en master, o mejor en mi rama nueva
+
+Cambio en rama2
