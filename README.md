@@ -15,4 +15,4 @@ Cambio en rama2. Otro cambio
 
 Este cambio es de la rama2 con algo de master.
 
-Este es un cambio de la rama 3
+Este es un cambio de la rama 3. Otro cambio.
