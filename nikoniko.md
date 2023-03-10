@@ -39,4 +39,5 @@ In the retrospective meeting, the team has a discussion about those results.
 | Day 3         |         😟      |                |                |                |                |                |
 | Day 4         |          🙂     |                |                |                |                |                |
 | Day 5         |          ☹️     |                |                |                |                |                |
+| Day 5         |          😐     |                |                |                |                |                |
 ...
