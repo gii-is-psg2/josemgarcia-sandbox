@@ -17,6 +17,40 @@ Prior to the scrum retrospective meeting, the scrum master will compute a total 
 
 In the retrospective meeting, the team has a discussion about those results.
 
+## Methodology for morale estimation
+Read each sentence and pvovide an score for each:
+ a) In my team, I feel fit and strong, I am well suited for the tasks at
+hand.
+ b) I am proud of the work I have done today for my team.
+ c) I am enthusiastic about the work I have done for my team
+ d) I find the work that I do for my team meaningful and purposeful
+Score the statements above from 1 thorugh 6 to assess your current
+morale, meaning:
+1. Strongly Disagree
+2. Disagree
+3. Slightly Disagree
+4. Slightly Agree
+5. Agree
+6. Strongly Agree
+Then compute the average value and map it to
+the following symbol according to the intervals:
+
+[1.0 – 2.0) 
+Very low
+morale 😥
+[2.0 – 3.0) 
+Low morale
+🙁
+[3.0 – 4.0)
+Neutral
+morale 😐
+[4.0 – 5.0)
+High morale
+🙂
+[5.0 – 6.0]
+Very High
+Morale �
+
 ## Example:
 
 ### Sprint 3: L3-Measurement 
