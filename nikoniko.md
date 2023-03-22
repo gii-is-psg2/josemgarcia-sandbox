@@ -43,6 +43,7 @@ morale, meaning:
 5. Agree
 
 6. Strongly Agree
+
 Then compute the average value and map it to
 the following symbol according to the intervals:
 
